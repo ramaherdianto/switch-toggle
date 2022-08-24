@@ -1,7 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;500;600;700&display=swap");
+
 * {
   padding: 0;
   margin: 0;
   transition: all 0.4s ease-in-out;
+  font-family: "DynaPuff", cursive;
 }
 
 /* background-color: #FEE140;
@@ -27,11 +30,13 @@ body {
 .container p {
   font-size: 25px;
   color: transparent;
+  font-family: "Rufina", serif;
 }
 
 .container p.active {
   display: block;
   color: #f4f4f5;
+  font-family: "Rufina", serif;
 }
 
 .container .switch {

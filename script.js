@@ -1,4 +1,4 @@
-const nama = prompt("Siapa nama kamu?");
+const nama = prompt("Ketik nama kamu?");
 const ucapan = document.querySelector("p");
 
 ucapan.innerHTML = `Good Night ${nama} ❤️`;
